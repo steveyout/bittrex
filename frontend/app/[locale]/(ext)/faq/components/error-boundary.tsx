@@ -53,7 +53,7 @@ export class ErrorBoundary extends React.Component<
 
       // Default error UI
       return (
-        <div className="flex items-center justify-center min-h-[400px] p-4">
+        <div className="flex items-center justify-center min-h-100 p-4">
           <Card className="max-w-md w-full">
             <CardHeader>
               <div className="flex items-center gap-2">
