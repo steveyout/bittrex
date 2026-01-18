@@ -10,7 +10,7 @@ module.exports = {
       script: "./maintenance/server.js",
       env: {
         NODE_ENV: "production",
-        PORT: 3000,
+        PORT: 3060,
         BACKEND_PORT: 4000,
       },
       exec_mode: "fork",

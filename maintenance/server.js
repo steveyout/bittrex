@@ -11,7 +11,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Configuration
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3060;
 const BACKEND_PORT = process.env.BACKEND_PORT || 4000;
 const HOST = '0.0.0.0';
 
